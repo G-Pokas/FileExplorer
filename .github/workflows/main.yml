@@ -1,4 +1,4 @@
-name: Upload MSI
+name: File Explorer
 
 on:
   workflow_dispatch:
