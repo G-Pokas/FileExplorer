@@ -12,7 +12,6 @@ jobs:
 
       - uses: dtolnay/rust-toolchain@stable
       
-      - name: Upload MSI
       - uses: actions/upload-artifact@v4
         with:
           name: Explr-Windows
